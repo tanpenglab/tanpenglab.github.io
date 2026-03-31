@@ -214,6 +214,7 @@ permalink: /team/
       <span style="font-weight: 600; color: var(--ink);">Ting Wei</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">Master's student-Computation</span>
+    </div>
   </div>
 </section>
 
