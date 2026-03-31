@@ -825,3 +825,17 @@ img {
 .research-card .card-body p {
   line-height: 1.15;
 }
+
+/* 👇 就贴在这里 👇 */
+/* Research 所有文字两端对齐 */
+.section,
+.prose,
+.research-card,
+.card-body,
+.section p,
+.section li,
+.research-prose {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  hyphens: none !important;
+}
