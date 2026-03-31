@@ -182,42 +182,19 @@ permalink: /team/
     </div>
   </div>
 
-  <div class="team-grid team-grid--members">
+  <div style="padding: 0 0 12px;">
     {% for member in site.data.team offset:1 %}
-      <article class="member-card">
-        <!-- 已移除头像区域 -->
-        <div class="card-body">
-          <h3>{{ member.name }}</h3>
-          <p class="member-meta">{{ member.role }}</p>
-          {% for line in member.lines %}
-            <p>{{ line }}</p>
-          {% endfor %}
-          {% if member.link %}
-            <p class="member-link">
-              <a href="{{ member.link }}" target="_blank" rel="noopener noreferrer">{{ member.link }}</a>
-            </p>
-          {% endif %}
-        </div>
-      </article>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section team-section">
-  <div class="section-head">
-    <div>
-      <p class="eyebrow">CONSORTIUM</p>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">{{ member.name }}</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">{{ member.role }}</span>
+      {% if member.link %}
+      <span style="margin: 0 10px; color: var(--muted);">|</span>
+      <a href="{{ member.link }}" target="_blank" rel="noopener noreferrer" style="color: var(--accent);">
+        {{ member.link }}
+      </a>
+      {% endif %}
     </div>
-  </div>
-  <div class="logo-grid">
-    {% for item in site.data.consortium %}
-      <div class="logo-card">
-        {% if item.image contains "://" %}
-          <img src="{{ item.image }}" alt="{{ item.title }}">
-        {% else %}
-          <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
-        {% endif %}
-      </div>
     {% endfor %}
   </div>
 </section>
