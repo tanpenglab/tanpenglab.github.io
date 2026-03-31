@@ -71,9 +71,9 @@ permalink: /contact/
 <section class="section contact-block">
   <h2 class="contact-title">Openings</h2>
 
-  <p class="contact-copy">We have openings at all levels and are always looking for great people to join us.</p>
+  <p class="contact-copy">Our lab has openings at all levels and is continuously seeking talented researchers to join our team.</p>
 
-  <p class="contact-copy"><strong>Postdoctoral candidates</strong> are encouraged to email Prof. Tan a CV, cover letter, research summary and research plan, and contact information for three references.</p>
+  <p class="contact-copy"><strong>For postdoctoral positions</strong>, candidates should submit a complete application package including a CV, cover letter, research summary, research proposal, and contact information for three references.</p>
 
-  <p class="contact-copy"><strong>Graduate program applicants</strong> should directly contact Prof. Tan via email.</p>
+  <p class="contact-copy"><strong>For graduate program inquiries</strong>, formal applications are requested.</p>
 </section>
