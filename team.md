@@ -83,7 +83,7 @@ permalink: /team/
   font-size: 1rem;
   line-height: 1.55;
   color: var(--muted);
-  text-align: justify; /* 就是加这一行！ */
+  text-align: justify;
 }
 
 .team-grid--members:empty::before {
@@ -185,13 +185,7 @@ permalink: /team/
   <div class="team-grid team-grid--members">
     {% for member in site.data.team offset:1 %}
       <article class="member-card">
-        <div class="member-avatar">
-          {% if member.image contains "://" %}
-            <img src="{{ member.image }}" alt="{{ member.name }}" loading="lazy">
-          {% else %}
-            <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" loading="lazy">
-          {% endif %}
-        </div>
+        <!-- 已移除头像区域 -->
         <div class="card-body">
           <h3>{{ member.name }}</h3>
           <p class="member-meta">{{ member.role }}</p>
