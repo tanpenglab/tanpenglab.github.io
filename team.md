@@ -83,6 +83,7 @@ permalink: /team/
   font-size: 1rem;
   line-height: 1.55;
   color: var(--muted);
+  text-align: justify; /* 就是加这一行！ */
 }
 
 .team-grid--members:empty::before {
