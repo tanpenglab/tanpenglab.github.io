@@ -183,17 +183,17 @@ permalink: /team/
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Wanrong Xia</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">Administrative Assistant</span>
+      <span style="color: var(--muted);">Administrative assistant</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Jiaxing Wang</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">PhD Student</span>
+      <span style="color: var(--muted);">Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Wen Jiang</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">PhD Student</span>
+      <span style="color: var(--muted);">Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Jinyi Xiang</span>
@@ -214,6 +214,42 @@ permalink: /team/
       <span style="font-weight: 600; color: var(--ink);">Ting Wei</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">Master's student-Computation</span>
+    </div>
+      <div style="padding: 0 0 12px;">
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Zixuan Song</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Yihan Du</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Weiyuan Ding</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Arun Dong</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Linfei Liu</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Yidan Zhao</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Wanxiang Shi</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Undergraduate student</span>
     </div>
   </div>
 </section>
