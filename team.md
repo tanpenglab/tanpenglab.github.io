@@ -172,7 +172,7 @@ permalink: /team/
   </div>
 
   <div style="margin-top:12px;">
-    <img src="/assets/team-photo.png"
+    <img src="/assets/images/team-photo.png"
          style="width:100%; border-radius:16px; object-fit:cover;"
          alt="Lab Members">
   </div>
