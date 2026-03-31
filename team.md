@@ -171,10 +171,49 @@ permalink: /team/
     </div>
   </div>
 
-  <div style="margin-top:12px;">
+  <!-- 合照 -->
+  <div style="margin-top:12px; margin-bottom:32px;">
     <img src="/assets/images/team-photo.png"
          style="width:100%; border-radius:16px; object-fit:cover;"
          alt="Lab Members">
+  </div>
+
+  <!-- 成员列表 -->
+  <div style="padding: 0 0 12px;">
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Wanrong Xia</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Administrative Assistant</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Jiaxing Wang</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">PhD Student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Wen Jiang</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">PhD Student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Jinyi Xiang</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Master's student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Xinyu Zhang</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Master's student</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Zeyan Han</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Master's student-Computation</span>
+    </div>
+    <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
+      <span style="font-weight: 600; color: var(--ink);">Ting Wei</span>
+      <span style="margin: 0 10px; color: var(--muted);">–</span>
+      <span style="color: var(--muted);">Master's student-Computation</span>
   </div>
 </section>
 
