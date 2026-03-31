@@ -568,7 +568,8 @@ img {
   height: 280px;
   border-radius: 18px;
   background: #fff;
-  margin-top: 15px; 
+  margin-top: 20px !important;
+  margin-bottom: 16px !important;
 }
 
 .member-card--lead .member-avatar img {
