@@ -171,7 +171,10 @@ permalink: /team/
     </div>
   </div>
 
-  <div class="team-grid team-grid--members">
+  <div style="margin-top:12px;">
+    <img src="/assets/team-photo.png"
+         style="width:100%; border-radius:16px; object-fit:cover;"
+         alt="Lab Members">
   </div>
 </section>
 
