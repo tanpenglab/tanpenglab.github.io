@@ -540,7 +540,7 @@ img {
 .member-avatar {
   width: 118px;
   height: 118px;
-  margin: 0 auto 16px;
+  margin: 10px auto 16px;
   border-radius: 50%;
   overflow: hidden;
   border: 1px solid var(--line);
