@@ -1,5 +1,6 @@
 title: TAN LAB
 description: From basic neuroimmunology to engineering
+github_source: This website is open-source and available on GitHub.
 url: "https://tanpenglab.github.io"
 baseurl: ""
 markdown: kramdown
