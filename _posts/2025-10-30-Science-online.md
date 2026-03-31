@@ -1,25 +1,22 @@
 ---
 layout: post
-title: New paper "Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation" from the lab in Science 
+title: New paper "Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation" from the lab in Science
 updated: Oct 30, 2025
+# 这里保留，但主题不会重复显示图片，只在框内显示一次
 image: "/assets/images/science.jpg"
 ---
 
-<!-- 方框开始：包含 标题 + 图片 + 文字 -->
-<div style="border: 2px solid #e0e0e0; border-radius: 14px; padding: 24px; margin: 25px 0; background-color: #fafafa; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+<div style="border: 1px solid #ddd; border-radius: 12px; padding: 24px; margin: 20px 0; background:#f9f9f9;">
 
-  <!-- 标题（自动读取你上方的 title） -->
-  <h2 style="text-align:center; margin-top:0; color:#222;">
+  <h3 style="margin-top: 0; text-align:center; font-size:1.2rem;">
     New paper "Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation" from the lab in Science
-  </h2>
+  </h3>
 
-  <!-- 图片（自动读取你上方的图片地址） -->
-  <img src="/assets/images/science.jpg" alt="Science Paper" style="width:100%; border-radius:10px; margin:18px 0;">
+  <img src="/assets/images/science.jpg"
+       style="width:100%; border-radius:8px; margin:16px 0;">
 
-  <!-- 正文文字 -->
-  <div style="font-size:1rem; line-height:1.7; color:#333;">
+  <p style="line-height:1.7; font-size:1rem;">
     Thrilled to share that our work, with Alok Jaiswal, Jacques Deguine, and the Xavier Lab, is now published in Science! We present a comprehensive single-cell atlas of the enteric nervous system under environmental challenges, uncovering coordinated responses to perturbations. Using in vivo Perturb-seq, we’ve identified key factors that link ENS cell states to alterations in intestinal physiology.
-  </div>
+  </p>
 
 </div>
-<!-- 方框结束 -->
