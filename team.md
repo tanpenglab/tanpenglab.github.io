@@ -236,7 +236,7 @@ permalink: /team/
       <span style="color: var(--muted);">Undergraduate student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Linfei Liu</span>
+      <span style="font-weight: 600; color: var(--ink);">Lingfei Liu</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">Undergraduate student</span>
     </div>
