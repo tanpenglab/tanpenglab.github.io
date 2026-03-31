@@ -540,7 +540,7 @@ img {
 .member-avatar {
   width: 118px;
   height: 118px;
-  margin: 10px auto 16px;
+  margin: 0 auto 16px;
   border-radius: 50%;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -568,6 +568,7 @@ img {
   height: 280px;
   border-radius: 18px;
   background: #fff;
+  margin-top: 15px; 
 }
 
 .member-card--lead .member-avatar img {
