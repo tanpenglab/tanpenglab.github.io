@@ -947,3 +947,27 @@ img {
     text-align: center;
   }
 }
+/* 缩小 PI 介绍与 Lab Members 之间的空白 */
+.team-grid--pi {
+  margin-bottom: 16px !important; /* 原来很大，改成小间距 */
+  gap: 16px !important;
+}
+.team-section .section-head {
+  margin-top: 16px !important; /* 成员标题上间距缩小 */
+  margin-bottom: 16px !important;
+}
+.team-grid--members {
+  margin-top: 0 !important; /* 去掉成员网格顶部额外间距 */
+  gap: 20px !important; /* 成员卡片之间正常间距 */
+}
+
+/* 手机端进一步收紧 */
+@media (max-width: 768px) {
+  .team-grid--pi {
+    margin-bottom: 12px !important;
+  }
+  .team-section .section-head {
+    margin-top: 12px !important;
+    margin-bottom: 12px !important;
+  }
+}
