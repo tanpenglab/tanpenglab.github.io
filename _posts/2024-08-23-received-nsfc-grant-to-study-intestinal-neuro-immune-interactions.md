@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Received NSFC general grant to study intestinal neuro-immune interactions
+title: Received NSFC general grant to study enteric neuro-immune interactions
 updated: Oct 8, 2024
 image:
 ---
