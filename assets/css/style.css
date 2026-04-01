@@ -961,13 +961,38 @@ img {
   gap: 20px !important; /* 成员卡片之间正常间距 */
 }
 
-/* 手机端进一步收紧 */
+/* ============================================== */
+/* 📱 手机端 PI 与 Lab Members 之间空白彻底修复 */
+/* ============================================== */
 @media (max-width: 768px) {
+  /* 把 PI 卡片下方间距压到最小 */
   .team-grid--pi {
+    margin-bottom: 4px !important;
+    padding-bottom: 0 !important;
+    gap: 0 !important;
+  }
+
+  /* PI 内部彻底收紧 */
+  .member-card--lead {
+    padding-top: 14px !important;
+    padding-bottom: 8px !important;
+    margin-bottom: 0 !important;
+  }
+
+  /* 头像下方间距收紧 */
+  .member-card--lead .member-avatar {
     margin-bottom: 12px !important;
   }
+
+  /* Lab Members 标题上方空白彻底压扁 */
   .team-section .section-head {
-    margin-top: 12px !important;
+    margin-top: 4px !important;
     margin-bottom: 12px !important;
+  }
+
+  /* 成员网格顶部空白清零 */
+  .team-grid--members {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
   }
 }
