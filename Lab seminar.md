@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Seminar
-permalink: /seminar/
+title: Lab Seminar
+permalink: /Lab Seminar/
 ---
 
 <section class="page-hero page-hero--compact">
