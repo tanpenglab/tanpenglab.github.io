@@ -845,6 +845,8 @@ img {
   text-align: center;
   font-size: 1.12rem;
   font-weight: 700;
+  /* 直接继承 eyebrow 的颜色和样式 */
+  @extend .eyebrow;
   color: var(--accent) !important;
   letter-spacing: 0.06em;
   text-transform: none;
