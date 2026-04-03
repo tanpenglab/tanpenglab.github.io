@@ -4,14 +4,33 @@ title: Seminar
 permalink: /seminar/
 ---
 
-# Seminar & Talks
+<section class="page-hero page-hero--compact">
+  <p class="eyebrow">SEMINAR & TALKS</p>
+  <p>Invited seminars, conference presentations, and lectures</p>
+</section>
 
-{% for item in site.data.seminars %}
-<div style="margin-bottom: 2em;">
-  <div style="font-weight: bold;">{{ item.date }} | {{ item.type }}</div>
-  <div style="font-size: 1.1em; margin: 0.2em 0;">{{ item.title }}</div>
-  <div>**Speaker:** {{ item.speaker }}</div>
-  <div>{{ item.host }}</div>
-  <div>{{ item.location }}</div>
-</div>
-{% endfor %}
+<section class="section">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">TALKS</p>
+    </div>
+  </div>
+
+  <div class="pub-list">
+    {% for item in site.data.seminars %}
+    <article class="pub-item">
+      <div class="pub-meta">
+        <span class="pub-journal">{{ item.type }}</span>
+        <span>•</span>
+        <span class="pub-date">{{ item.date }}</span>
+      </div>
+      <div class="pub-title">
+        {{ item.title }}
+      </div>
+      <div><strong>Speaker:</strong> {{ item.speaker }}</div>
+      <div>{{ item.host }}</div>
+      <div>{{ item.location }}</div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
