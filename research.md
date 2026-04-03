@@ -23,16 +23,20 @@ permalink: /research/
   </div>
   <div class="stack-list">
     <article class="stack-card">
-      <h3><a href="/research/Enteric Nervous System and the Gut-Brain Axis/">Enteric Nervous System and the Gut-Brain Axis</a></h3>
+      <h3><a href="Enteric Nervous System and the Gut-Brain Axis/">Enteric Nervous System and the Gut-Brain Axis</a></h3>
+      <p>Click to view details</p>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/Innate Sensing: Understanding Host Responses to Gut Pathogens/">Innate Sensing: Understanding Host Responses to Gut Pathogens</a></h3>
+      <h3><a href="Innate Sensing Understanding Host Responses to Gut Pathogens/">Innate Sensing: Understanding Host Responses to Gut Pathogens</a></h3>
+      <p>Click to view details</p>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/Gastrointestinal Tumor Microenvironment and Metastasis/">Gastrointestinal Tumor Microenvironment and Metastasis</a></h3>
+      <h3><a href="Gastrointestinal Tumor Microenvironment and Metastasis/">Gastrointestinal Tumor Microenvironment and Metastasis</a></h3>
+      <p>Click to view details</p>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/Advancing Medical Science with Deep Gut Tissue Optogenetics/">Advancing Medical Science with Deep Gut Tissue Optogenetics</a></h3>
+      <h3><a href="Advancing Medical Science with Deep Gut Tissue Optogenetics/">Advancing Medical Science with Deep Gut Tissue Optogenetics</a></h3>
+      <p>Click to view details</p>
     </article>
   </div>
 </section>
