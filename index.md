@@ -9,7 +9,6 @@ title: Home
   </div>
 
   <div class="hero-copy">
-    <!-- 这里我把 intro 去掉了，不会顶在顶部！-->
     <div class="cta-row">
       <a class="button" href="{{ '/research/' | relative_url }}">Explore Research</a>
       <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
@@ -17,7 +16,7 @@ title: Home
   </div>
 </section>
 
-<!-- 在这里正常显示 intro + 两端对齐 -->
+<!-- Intro 两端对齐 -->
 <section class="section" style="max-width: 860px; margin: 0 auto;">
   <div style="text-align: justify; font-size: 1rem; line-height: 1.6; color: var(--ink);">
     {{ site.data.site.intro }}
@@ -43,9 +42,9 @@ title: Home
     {% endfor %}
   </div>
 
-  <!-- ✅ 图片放在 Research Area 正下方（居中、美观）-->
-  <div style="margin-top: 36px; text-align: center;">
+  <!-- ✅ 全屏宽度大图，和 Research Area 一样宽 -->
+  <div style="margin-top: 36px; width: 100%;">
     <img src="/assets/images/home-page-logo.png"
-         style="max-width: 320px; width: 100%; border-radius: 14px; object-fit: cover;">
+         style="width: 100%; height: auto; border-radius: 16px; object-fit: cover; display: block;">
   </div>
 </section>
