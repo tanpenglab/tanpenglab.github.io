@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /research/Enteric Nervous System and the Gut-Brain Axis/
+permalink: /research/Enteric Nervous System/
 ---
 
 <section class="section">
