@@ -7,7 +7,7 @@ permalink: /research/
 <section class="section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">HIGHLIGHT</p>
+      <p class="eyebrow">RESEARCH OVERVIEW</p>
     </div>
   </div>
   <div class="image-panel publication-feature-figure">
@@ -23,20 +23,16 @@ permalink: /research/
   </div>
   <div class="stack-list">
     <article class="stack-card">
-      <h3><a href="/research/project-1/">PROJECT 1</a></h3>
-      <p>Click to view details</p>
+      <h3><a href="/research/Enteric Nervous System and the Gut-Brain Axis/">Enteric Nervous System and the Gut-Brain Axis</a></h3>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/project-2/">PROJECT 2</a></h3>
-      <p>Click to view details</p>
+      <h3><a href="/research/Innate Sensing: Understanding Host Responses to Gut Pathogens/">Innate Sensing: Understanding Host Responses to Gut Pathogens</a></h3>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/project-3/">PROJECT 3</a></h3>
-      <p>Click to view details</p>
+      <h3><a href="/research/Gastrointestinal Tumor Microenvironment and Metastasis/">Gastrointestinal Tumor Microenvironment and Metastasis</a></h3>
     </article>
     <article class="stack-card">
-      <h3><a href="/research/project-4/">PROJECT 4</a></h3>
-      <p>Click to view details</p>
+      <h3><a href="/research/Advancing Medical Science with Deep Gut Tissue Optogenetics/">Advancing Medical Science with Deep Gut Tissue Optogenetics</a></h3>
     </article>
   </div>
 </section>
