@@ -1,10 +1,15 @@
 lab_name: TAN LAB
 tagline: From basic neuroimmunology to engineering
-intro: We seek to understand the fundamental principles underlying gut inflammation and
+intro: |
+  We seek to understand the fundamental principles underlying gut inflammation and
   disease progression across space and time through developing interdisciplinary technologies
   and computational methodologies, and to design molecular switches and allosteric
   perturbations to study biological processes and the quantitative consequences at
   single-cell and systems level.
+
+
+  ![](/assets/images/home-page-logo.png)
+
 copyright: Copyright @ 2022 Tan Lab of Enteric neuroimmunology and Optogenetics
 pi_github: https://github.com/tanlab1
 home_hero_image: https://static.wixstatic.com/media/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.png
