@@ -27,7 +27,8 @@ permalink: /team/
 .team-profile-photo {
   width: 118px;
   height: 118px;
-  border-radius: 50%;
+  /* 去掉圆形，恢复原始形状 */
+  border-radius: 0;
   overflow: hidden;
   background: #fff;
   margin: 0 0 16px;
@@ -143,7 +144,6 @@ permalink: /team/
   <div class="team-profile-card">
     <div class="team-profile-side">
       <div class="team-profile-photo">
-        <!-- 直接换成 peng-tan.png -->
         <img src="/assets/images/peng-tan.png" alt="{{ lead.name }}" loading="lazy">
       </div>
 
@@ -168,7 +168,7 @@ permalink: /team/
   <!-- 合照 -->
   <div style="margin-top:12px; margin-bottom:32px;">
     <img src="/assets/images/team-photo.png?v=3"
-         style="width:100%; border-radius:16px; object-fit:cover;"
+         style="width:100%; border-radius: 16px; object-fit:cover;"
          alt="Lab Members">
   </div>
 
