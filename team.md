@@ -11,7 +11,7 @@ permalink: /team/
 
 .team-profile-card {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 36px;
   padding: 8px 0 0;
 }
@@ -27,7 +27,6 @@ permalink: /team/
 .team-profile-photo {
   width: 118px;
   height: 118px;
-  /* 去掉圆形，恢复原始形状 */
   border-radius: 0;
   overflow: hidden;
   background: #fff;
@@ -65,10 +64,9 @@ permalink: /team/
 }
 
 .team-profile-copy {
-  flex: 0 1 760px;
+  flex: 1;
   max-width: 760px;
   min-width: 0;
-  padding-top: 2px;
 }
 
 .team-profile-bio {
@@ -125,7 +123,6 @@ permalink: /team/
 
   .team-profile-copy {
     max-width: 100%;
-    padding-top: 0;
   }
 }
 </style>
