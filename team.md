@@ -173,7 +173,7 @@ permalink: /team/
 
   <!-- 合照 -->
   <div style="margin-top:12px; margin-bottom:32px;">
-    <img src="/assets/images/team-photo.png?v=2"
+    <img src="/assets/images/team-photo.png?v=3"
          style="width:100%; border-radius:16px; object-fit:cover;"
          alt="Lab Members">
   </div>
