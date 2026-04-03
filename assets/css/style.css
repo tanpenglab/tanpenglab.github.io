@@ -995,4 +995,16 @@ img {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
+  
+/* 👇 主页居中大黑粗标题：Systems Approaches to Gut Biology and Disease */
+.hero-home h1::before {
+  content: "Systems Approaches to Gut Biology and Disease";
+  display: block;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 18px;
+  line-height: 1.4;
+  }
 }
