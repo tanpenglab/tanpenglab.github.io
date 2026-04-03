@@ -3,27 +3,25 @@ layout: default
 title: Home
 ---
 
-<!-- 全部内容放在同一个 section 框内 -->
+<!-- 整个首页内容包在同一个 section 里，完全一体化 -->
 <section class="section">
 
-  <!-- 顶部介绍 + 图片 -->
-  <div class="hero hero-home" style="margin-bottom: 48px;">
-    <div class="hero-visual image-panel">
-      <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image">
-    </div>
+  <!-- 顶部介绍文字 + 图片 -->
+  <div class="hero-visual image-panel">
+    <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image">
+  </div>
 
-    <div class="hero-copy">
-      <h1 style="text-align: justify; font-size: 1.1rem; line-height: 1.6; font-weight: normal;">
-        {{ site.data.site.intro }}
-      </h1>
-      <div class="cta-row">
-        <a class="button" href="{{ '/research/' | relative_url }}">Explore Research</a>
-        <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
-      </div>
+  <div class="hero-copy" style="margin: 24px 0 48px 0;">
+    <h1 style="text-align: justify; font-size: 1.1rem; line-height: 1.6; font-weight: normal;">
+      {{ site.data.site.intro }}
+    </h1>
+    <div class="cta-row" style="margin-top: 20px;">
+      <a class="button" href="{{ '/research/' | relative_url }}">Explore Research</a>
+      <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
     </div>
   </div>
 
-  <!-- Research Area -->
+  <!-- Research Area 紧接在下面，无间隔分段 -->
   <div class="section-head">
     <div>
       <p class="eyebrow">Research Area</p>
