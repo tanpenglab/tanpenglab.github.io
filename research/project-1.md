@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Research Project 1
+title: Enteric Nervous System and the Gut-Brain Axis
 permalink: /research/project-1/
 ---
 
 <section class="section">
   <div class="section-head">
-    <p class="eyebrow">RESEARCH PROJECT</p>
+    <p class="eyebrow">Enteric Nervous System and the Gut-Brain Axis</p>
     <h1>Project 1</h1>
     <p><a href="/research/">← Back to Research Overview</a></p>
   </div>
