@@ -143,11 +143,8 @@ permalink: /team/
   <div class="team-profile-card">
     <div class="team-profile-side">
       <div class="team-profile-photo">
-        {% if lead.image contains "://" %}
-          <img src="{{ lead.image }}" alt="{{ lead.name }}" loading="lazy">
-        {% else %}
-          <img src="{{ lead.image | relative_url }}" alt="{{ lead.name }}" loading="lazy">
-        {% endif %}
+        <!-- 直接换成 peng-tan.png -->
+        <img src="/assets/images/peng-tan.png" alt="{{ lead.name }}" loading="lazy">
       </div>
 
       <h3>{{ lead.name }}</h3>
