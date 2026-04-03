@@ -1,19 +1,23 @@
 - type: Invited Seminar
   date: "2025-04-15"
   speaker: "施海玲 (Emory University)"
+  link: "https://www.hailing-shi-lab.org/hailing-shi"
   title: "Spatial atlas of the mouse central nervous system at molecular resolution"
 
 - type: Invited Seminar
   date: "2024-06-12"
   speaker: "崔隽 (中山大学)"
+  link: "https://lifesciences.sysu.edu.cn/zh-hans/teacher/1197"
   title: "Regulation of innate immunity and inflammation by selective autophagy through multiple PTMs"
 
 - type: Invited Seminar
   date: "2024-07-03"
   speaker: "吴船 (NIH/NCI)"
+  link: "https://irp.nih.gov/pi/chuan-wu"
   title: "Gut-liver axis calibrates intestinal stem cell fitness"
 
 - type: Invited Seminar
   date: "2025-09-15"
   speaker: "唐泽方 (浙江大学)"
+  link: "https://person.zju.edu.cn/tangzefang"
   title: "Search and match across spatial omics samples at single-cell resolution"
