@@ -1,11 +1,13 @@
 ---
 layout: default
-permalink: /research/Enteric Nervous System and the Gut-Brain Axis.md/
+permalink: /research/Enteric Nervous System and the Gut-Brain Axis/
 ---
 
 <section class="section">
   <div class="content">
-    <p><a href="/research/">← Back to Research Overview</a></p>
+    <p><a href="../">← Back to Research Overview</a></p>
+
+    <p>GUT-BRAIN AXIS AND NEURO-IMMUNE INTERACTION</p>
 
     <p>Our group focuses on the gut-brain axis and neuroimmunology, with core research targeting the regionalized coding of the enteric nervous system (ENS), neuro-innate immune crosstalk, and multiscale regulatory mechanisms of inflammation.</p>
 
