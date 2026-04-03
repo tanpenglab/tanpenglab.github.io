@@ -11,13 +11,20 @@ permalink: /news/
     </div>
   </div>
 
-  <div class="post-list">
+  <!-- 去掉框框，纯文本新闻列表 -->
+  <div class="post-list" style="gap: 28px; display: flex; flex-direction: column;">
     {% for post in site.posts %}
-      <article class="post-card">
-        <p class="muted">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | strip_html | strip_newlines }}</p>
-      </article>
+      <div>
+        <p class="muted" style="margin: 0 0 6px; font-size: 0.86rem;">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h3 style="margin: 0 0 8px; font-size: 1rem; font-weight: 600;">
+          <a href="{{ post.url | relative_url }}" style="color: var(--ink); text-decoration: none;">
+            {{ post.title }}
+          </a>
+        </h3>
+        <p style="margin: 0; font-size: 0.94rem; line-height: 1.6; color: var(--muted);">
+          {{ post.excerpt | strip_html | strip_newlines }}
+        </p>
+      </div>
     {% endfor %}
   </div>
 </section>
