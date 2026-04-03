@@ -7,7 +7,7 @@ permalink: /research/Enteric Nervous System and the Gut-Brain Axis/
 <section class="section">
   <div class="section-head">
     <p class="eyebrow">RESEARCH PROJECT</p>
-    <h1>GUT-BRAIN AXIS AND NEURO-IMMUNE INTERACTION</h1>
+    <h1>Enteric Nervous System and the Gut-Brain Axis</h1>
     <p><a href="/research/">← Back to Research Overview</a></p>
   </div>
 
