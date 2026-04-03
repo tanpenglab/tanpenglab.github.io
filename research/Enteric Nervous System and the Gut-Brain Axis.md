@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gut-Brain Axis and Neuro-Immune Interaction
-permalink: /research/Gut-Brain Axis and Neuro-Immune Interaction/
+permalink: /research/Enteric Nervous System and the Gut-Brain Axis/
 ---
 
 <section class="section">
