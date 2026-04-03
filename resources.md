@@ -11,8 +11,8 @@ permalink: /resources/
     </div>
   </div>
 
-  <!-- 去掉卡片框，纯文本展示，位置布局不变 -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px;">
+  <!-- 改为竖排，从上到下依次排列 -->
+  <div style="display: flex; flex-direction: column; gap: 24px;">
     {% for block in site.data.resources %}
       <div>
         <h3 style="font-size: 1rem; font-weight: 600; margin: 0 0 12px 0;">{{ block.category }}</h3>
