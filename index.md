@@ -9,17 +9,14 @@ title: Home
   </div>
 
   <div class="hero-copy">
+    <!-- 介绍文字放回原位 + 两端对齐 -->
+    <h1 style="text-align: justify; font-size: 1.5rem; line-height: 1.6;">
+      {{ site.data.site.intro }}
+    </h1>
     <div class="cta-row">
       <a class="button" href="{{ '/research/' | relative_url }}">Explore Research</a>
       <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
     </div>
-  </div>
-</section>
-
-<!-- Intro 两端对齐 -->
-<section class="section" style="max-width: 860px; margin: 0 auto;">
-  <div style="text-align: justify; font-size: 1rem; line-height: 1.6; color: var(--ink);">
-    {{ site.data.site.intro }}
   </div>
 </section>
 
@@ -42,7 +39,7 @@ title: Home
     {% endfor %}
   </div>
 
-  <!-- ✅ 全屏宽度大图，和 Research Area 一样宽 -->
+  <!-- 全屏宽 Logo 图片 -->
   <div style="margin-top: 36px; width: 100%;">
     <img src="/assets/images/home-page-logo.png"
          style="width: 100%; height: auto; border-radius: 16px; object-fit: cover; display: block;">
