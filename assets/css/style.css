@@ -826,7 +826,6 @@ img {
   line-height: 1.15;
 }
 
-/* 👇 就贴在这里 👇 */
 /* Research 所有文字两端对齐 */
 .section,
 .prose,
@@ -839,6 +838,18 @@ img {
   text-justify: inter-word !important;
   hyphens: none !important;
 }
+/* 👇 👇 👇 你要的标题已经加在这里 👇 👇 👇 */
+.hero-home h1::before {
+  content: "Systems Approaches to Gut Biology and Disease";
+  display: block;
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #000000;
+  margin-bottom: 18px;
+  line-height: 1.4;
+}
+
 /* ============================================== */
 /* 📱 终极手机端完美适配（直接粘贴到你的CSS最后） */
 /* ============================================== */
@@ -994,17 +1005,5 @@ img {
   .team-grid--members {
     margin-top: 0 !important;
     padding-top: 0 !important;
-  }
-  
-/* 👇 主页居中大黑粗标题：Systems Approaches to Gut Biology and Disease */
-.hero-home h1::before {
-  content: "Systems Approaches to Gut Biology and Disease";
-  display: block;
-  text-align: center;
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: #000000;
-  margin-bottom: 18px;
-  line-height: 1.4;
   }
 }
