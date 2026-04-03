@@ -14,14 +14,16 @@ permalink: /seminar/
     {% for item in site.data.seminars %}
     <article class="pub-item">
       <div class="pub-meta">
-        <span class="pub-journal">{{ item.type }}</span>
+        <!-- 这里去掉了加粗样式，普通文本显示 -->
+        <span>{{ item.type }}</span>
         <span>•</span>
         <span class="pub-date">{{ item.date }}</span>
       </div>
       <div class="pub-title">
         {{ item.title }}
       </div>
-      <div><strong>Speaker:</strong> {{ item.speaker }}</div>
+      <!-- Speaker 带链接 -->
+      <div><strong>Speaker:</strong> <a href="{{ item.link }}" target="_blank">{{ item.speaker }}</a></div>
       <div>{{ item.host }}</div>
       <div>{{ item.location }}</div>
     </article>
