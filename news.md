@@ -5,6 +5,12 @@ permalink: /news/
 ---
 
 <section class="section">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">LAB NEWS</p>
+    </div>
+  </div>
+
   <div class="post-list">
     {% for post in site.posts %}
       <article class="post-card">
