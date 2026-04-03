@@ -10,12 +10,6 @@ permalink: /seminar/
 </section>
 
 <section class="section">
-  <div class="section-head">
-    <div>
-      <p class="eyebrow">LAB SEMINARS</p>
-    </div>
-  </div>
-
   <div class="pub-list">
     {% for item in site.data.seminars %}
     <article class="pub-item">
