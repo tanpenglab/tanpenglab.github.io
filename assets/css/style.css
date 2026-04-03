@@ -845,7 +845,7 @@ img {
   text-align: center;
   font-size: 1.25rem;
   font-weight: 700;
-  color: #000000;
+  color: var(--accent);
   margin-bottom: 18px;
   line-height: 1.4;
 }
