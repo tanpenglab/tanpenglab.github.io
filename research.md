@@ -11,19 +11,20 @@ permalink: /research/
     </div>
   </div>
 
-  <div class="stack-list">
+  <!-- 直接展示纯文本，去掉 stack-card 四个框 -->
+  <div style="margin-bottom: 32px;">
     {% for item in site.data.research %}
-      <article class="stack-card">
-        <h3>{{ item.title | upcase }}</h3>
-        <p>{{ item.summary }}</p>
-      </article>
+    <div style="margin-bottom: 24px;">
+      <h3 style="font-size: 1rem; font-weight: 600; margin-bottom: 8px;">{{ item.title | upcase }}</h3>
+      <p style="margin: 0; line-height: 1.6;">{{ item.summary }}</p>
+    </div>
     {% endfor %}
   </div>
 
-  <!-- 原来的 highlight 图片放在这里 -->
-  <div style="margin-top: 32px;">
-    <div class="image-panel publication-feature-figure">
-      <img src="{{ '/assets/images/publication-flowchart.jpg' | relative_url }}" alt="Research overview flowchart" style="width: 100%; border-radius: 16px; object-fit: cover;">
-    </div>
+  <!-- 流程图放在纯文本下面 -->
+  <div class="image-panel publication-feature-figure">
+    <img src="{{ '/assets/images/publication-flowchart.jpg' | relative_url }}"
+         alt="Research overview flowchart"
+         style="width: 100%; border-radius: 16px; object-fit: cover;">
   </div>
 </section>
