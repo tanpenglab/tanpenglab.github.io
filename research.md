@@ -26,11 +26,6 @@ permalink: /research/
       <article class="stack-card">
         <h3>{{ item.title | upcase }}</h3>
         <p>{{ item.summary }}</p>
-        <ul>
-          {% for bullet in item.bullets %}
-            <li>{{ bullet }}</li>
-          {% endfor %}
-        </ul>
       </article>
     {% endfor %}
   </div>
