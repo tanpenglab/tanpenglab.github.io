@@ -29,18 +29,22 @@ permalink: /publications/
 }
 </style>
 
-<section class="page-hero page-hero--compact">
-  <p class="eyebrow">PUBLICATIONS</p>
-  <p># denotes co-first authors; * denotes corresponding authors</p>
-  <div class="scholar-row">
-    <a href="https://scholar.google.com/citations?user=i6kV0H8AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-      <img src="{{ site.data.site.publications_scholar_image }}" alt="Google Scholar">
-    </a>
-  </div>
-</section>
-
+<!-- 所有内容放在同一个 section 框内 -->
 <section class="section">
   <div class="section-head">
+    <div>
+      <p class="eyebrow">PUBLICATIONS</p>
+      <p># denotes co-first authors; * denotes corresponding authors</p>
+    </div>
+    <div class="scholar-row">
+      <a href="https://scholar.google.com/citations?user=i6kV0H8AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+        <img src="{{ site.data.site.publications_scholar_image }}" alt="Google Scholar">
+      </a>
+    </div>
+  </div>
+
+  <!-- ARTICLES -->
+  <div class="section-head" style="margin-top: 48px;">
     <div>
       <p class="eyebrow">ARTICLES</p>
     </div>
@@ -61,10 +65,7 @@ permalink: /publications/
             <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
           {% endif %}
         </div>
-
-        <!-- 已改成 raw -->
         <div>{{ item.authors | raw }}</div>
-
         {% if item.note %}<div class="note">{{ item.note }}</div>{% endif %}
 
         {% if item.images %}
@@ -85,10 +86,9 @@ permalink: /publications/
       </article>
     {% endfor %}
   </div>
-</section>
 
-<section class="section">
-  <div class="section-head">
+  <!-- REVIEWS -->
+  <div class="section-head" style="margin-top: 48px;">
     <div>
       <p class="eyebrow">REVIEWS</p>
     </div>
@@ -105,10 +105,7 @@ permalink: /publications/
         <div class="pub-title">
           <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
         </div>
-
-        <!-- 已改成 raw -->
         <div>{{ item.authors | raw }}</div>
-
         {% if item.note %}<div class="note">{{ item.note }}</div>{% endif %}
         {% if item.images %}
           <div class="pub-gallery">
