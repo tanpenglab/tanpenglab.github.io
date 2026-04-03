@@ -9,14 +9,6 @@ permalink: /team/
   margin: 0 0 28px;
 }
 
-.team-profile-head {
-  margin: 0 0 20px;
-}
-
-.team-profile-head .eyebrow {
-  margin: 0;
-}
-
 .team-profile-card {
   display: flex;
   align-items: flex-start;
@@ -103,14 +95,14 @@ permalink: /team/
 }
 
 .team-section--alumni .member-card .card-body p,
-.team-section--alumni .member-card .member-meta,
-.team-section--alumni .member-card .member-link {
+.team-section--alumni .member-meta,
+.team-section--alumni .member-link {
   margin: 0 0 2px;
   line-height: 1.08;
 }
 
 .team-section--alumni .member-card .card-body p:last-child,
-.team-section--alumni .member-card .member-link:last-child {
+.team-section--alumni .member-link:last-child {
   margin-bottom: 0;
 }
 
@@ -137,9 +129,14 @@ permalink: /team/
 }
 </style>
 
-<section class="team-profile-block">
-  <div class="team-profile-head">
-    <p class="eyebrow">PRINCIPAL INVESTIGATOR</p>
+<!-- 全部内容放在同一个 section 框内 -->
+<section class="section">
+
+  <!-- PRINCIPAL INVESTIGATOR -->
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">PRINCIPAL INVESTIGATOR</p>
+    </div>
   </div>
 
   {% assign lead = site.data.team | first %}
@@ -162,10 +159,10 @@ permalink: /team/
       <p class="team-profile-bio">Peng Tan is a professor and principal investigator at Hainan Academy of Medical Sciences, Hainan Medical University. He earned his Ph.D. from Texas A&amp;M University (2018) and conducted off-campus research at Weill Cornell Medical College-Houston campus. He then joined Klarman Cell Observatory, Broad Institute of MIT and Harvard as a postdoctoral associate with professors Aviv Regev and Ramnik Xavier. He was the recipient of Student Research Award and IBD Plexus Award from the Crohn's &amp; Colitis Foundation of America. He has published over 40 publications, including first or corresponding author articles in premier journals (Science, Nature Chemical Biology, Physiological Reviews, Nucleic Acids Research, Molecular Cell, Journal of Clinical Investigation, PLoS Biology, PLoS Pathogens, Oncogene, etc), and contributed significantly to publications in Nature, Nature Medicine, Nature Cell Biology, Cell Host &amp; Microbe, and Immunity, with a total citation of over 4250 and an h-index of 29. His work has been featured or highlighted in multiple media outlets and in journals.</p>
     </div>
   </div>
-</section>
 
-<section class="section team-section team-section--members">
-  <div class="section-head">
+
+  <!-- LAB MEMBERS -->
+  <div class="section-head" style="margin-top: 48px;">
     <div>
       <p class="eyebrow">LAB MEMBERS</p>
     </div>
@@ -251,12 +248,12 @@ permalink: /team/
       <span style="color: var(--muted);">Undergraduate student</span>
     </div>
   </div>
-</section>
 
-<section class="section team-section team-section--alumni">
-  <div class="section-head">
+
+  <!-- Former members -->
+  <div class="section-head" style="margin-top: 48px;">
     <div>
-      <p class="eyebrow">ALUMNI</p>
+      <p class="eyebrow">FORMER MEMBERS</p>
     </div>
   </div>
 
@@ -275,4 +272,5 @@ permalink: /team/
     </div>
     {% endfor %}
   </div>
+
 </section>
