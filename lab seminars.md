@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Lab Seminar
-permalink: /Lab Seminar/
+permalink: /seminar/
 ---
 
 <section class="page-hero page-hero--compact">
-  <p class="eyebrow">SEMINAR & TALKS</p>
-  <p>Invited seminars, conference presentations, and lectures</p>
+  <p class="eyebrow">LAB SEMINAR</p>
+  <p>Invited speakers and lab presentations</p>
 </section>
 
 <section class="section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">TALKS</p>
+      <p class="eyebrow">LAB SEMINARS</p>
     </div>
   </div>
 
