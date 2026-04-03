@@ -9,9 +9,6 @@ intro: |
   single-cell and systems level.
   </div>
 
-  <div style="margin-top: 2em;">
-    <img src="/assets/images/home-page-logo.png" style="max-width: 320px; width: 100%; display: block; margin: 0 auto; border-radius: 12px;">
-  </div>
 copyright: Copyright @ 2022 Tan Lab of Enteric neuroimmunology and Optogenetics
 pi_github: https://github.com/tanlab1
 home_hero_image: https://static.wixstatic.com/media/d8287f_0e49b76980534dde9b8fa21eca252854~mv2.png
