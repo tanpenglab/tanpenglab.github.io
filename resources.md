@@ -4,7 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-<!-- 顶部加 LAB PROTOCOLS，样式和 LAB SEMINAR 完全一致 -->
 <section class="section">
   <div class="section-head">
     <div>
@@ -12,18 +11,19 @@ permalink: /resources/
     </div>
   </div>
 
-  <div class="resource-grid">
+  <!-- 去掉卡片框，纯文本展示，位置布局不变 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 32px;">
     {% for block in site.data.resources %}
-      <article class="resource-card">
-        <h3>{{ block.category }}</h3>
+      <div>
+        <h3 style="font-size: 1rem; font-weight: 600; margin: 0 0 12px 0;">{{ block.category }}</h3>
         {% if block.items.size > 0 %}
-        <ul>
+        <ul style="list-style: none; padding: 0; margin: 0;">
           {% for item in block.items %}
-            <li>{{ item }}</li>
+            <li style="margin-bottom: 6px; font-size: 0.94rem; line-height: 1.5;">{{ item }}</li>
           {% endfor %}
         </ul>
         {% endif %}
-      </article>
+      </div>
     {% endfor %}
   </div>
 </section>
