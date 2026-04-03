@@ -34,12 +34,13 @@ permalink: /publications/
   <div class="section-head">
     <div>
       <p class="eyebrow">PUBLICATIONS</p>
-      <p># denotes co-first authors; * denotes corresponding authors</p>
-    </div>
-    <div class="scholar-row">
-      <a href="https://scholar.google.com/citations?user=i6kV0H8AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
-        <img src="{{ site.data.site.publications_scholar_image }}" alt="Google Scholar">
-      </a>
+      <!-- Google Scholar 放在这里 -->
+      <div class="scholar-row" style="margin: 8px 0 0 0;">
+        <a href="https://scholar.google.com/citations?user=i6kV0H8AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
+          <img src="{{ site.data.site.publications_scholar_image }}" alt="Google Scholar">
+        </a>
+      </div>
+      <p style="margin: 12px 0 0 0;"># denotes co-first authors; * denotes corresponding authors</p>
     </div>
   </div>
 
