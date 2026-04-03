@@ -9,8 +9,7 @@ title: Home
   </div>
 
   <div class="hero-copy">
-    <!-- 介绍文字放回原位 + 两端对齐 -->
-    <h1 style="text-align: justify; font-size: 1.5rem; line-height: 1.6;">
+    <h1 style="text-align: justify; font-size: 1.1rem; line-height: 1.6; font-weight: normal;">
       {{ site.data.site.intro }}
     </h1>
     <div class="cta-row">
@@ -39,7 +38,6 @@ title: Home
     {% endfor %}
   </div>
 
-  <!-- 全屏宽 Logo 图片 -->
   <div style="margin-top: 36px; width: 100%;">
     <img src="/assets/images/home-page-logo.png"
          style="width: 100%; height: auto; border-radius: 16px; object-fit: cover; display: block;">
