@@ -18,6 +18,32 @@ permalink: /research/
 <section class="section">
   <div class="section-head">
     <div>
+      <p class="eyebrow">RESEARCH PROJECTS</p>
+    </div>
+  </div>
+  <div class="stack-list">
+    <article class="stack-card">
+      <h3><a href="/research/project-1/">PROJECT 1</a></h3>
+      <p>Click to view details</p>
+    </article>
+    <article class="stack-card">
+      <h3><a href="/research/project-2/">PROJECT 2</a></h3>
+      <p>Click to view details</p>
+    </article>
+    <article class="stack-card">
+      <h3><a href="/research/project-3/">PROJECT 3</a></h3>
+      <p>Click to view details</p>
+    </article>
+    <article class="stack-card">
+      <h3><a href="/research/project-4/">PROJECT 4</a></h3>
+      <p>Click to view details</p>
+    </article>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <div>
       <p class="eyebrow">RESEARCH OVERVIEW</p>
     </div>
   </div>
