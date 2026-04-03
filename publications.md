@@ -61,7 +61,8 @@ permalink: /publications/
             <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
           {% endif %}
         </div>
-        <div>{{ item.authors }}</div>
+        <!-- 这里改了 -->
+        <div>{{ item.authors | markdownify }}</div>
         {% if item.note %}<div class="note">{{ item.note }}</div>{% endif %}
 
         {% if item.images %}
@@ -102,7 +103,8 @@ permalink: /publications/
         <div class="pub-title">
           <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
         </div>
-        <div>{{ item.authors }}</div>
+        <!-- 这里也改了 -->
+        <div>{{ item.authors | markdownify }}</div>
         {% if item.note %}<div class="note">{{ item.note }}</div>{% endif %}
         {% if item.images %}
           <div class="pub-gallery">
