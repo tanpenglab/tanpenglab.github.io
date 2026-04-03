@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enteric Nervous System and the Gut-Brain Axis
-permalink: /research/project-1/
+permalink: /research/Enteric Nervous System and the Gut-Brain Axis/
 ---
 
 <section class="section">
