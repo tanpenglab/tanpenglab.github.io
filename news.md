@@ -1,5 +1,7 @@
 ---
 layout: default
+title: News
+permalink: /news/
 ---
 
 <section class="section">
@@ -9,29 +11,20 @@ layout: default
     </div>
   </div>
 
-  <!-- 整个帖子统一一个框 -->
-  <div style="
-    border: 1px solid #e5e7eb;
-    border-radius: 14px;
-    padding: 30px 32px;
-    background: #ffffff;
-    max-width: 800px;
-    margin: 0 auto;
-  ">
-    <h1 style="
-      margin: 0 0 20px;
-      font-size: 1.4rem;
-      font-weight: 700;
-      line-height: 1.4;
-      color: var(--ink);
-    ">{{ page.title }}</h1>
-
-    <div style="
-      font-size: 1rem;
-      line-height: 1.7;
-      color: var(--ink);
-    ">
-      {{ content }}
-    </div>
+  <!-- 去掉框框，纯文本新闻列表 -->
+  <div class="post-list" style="gap: 28px; display: flex; flex-direction: column;">
+    {% for post in site.posts %}
+      <div>
+        <p class="muted" style="margin: 0 0 6px; font-size: 0.86rem;">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <h3 style="margin: 0 0 8px; font-size: 1rem; font-weight: 600;">
+          <a href="{{ post.url | relative_url }}" style="color: var(--ink); text-decoration: none;">
+            {{ post.title }}
+          </a>
+        </h3>
+        <p style="margin: 0; font-size: 0.94rem; line-height: 1.6; color: var(--muted);">
+          {{ post.excerpt | strip_html | strip_newlines }}
+        </p>
+      </div>
+    {% endfor %}
   </div>
 </section>
