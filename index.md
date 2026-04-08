@@ -7,9 +7,10 @@ title: Home
 <section class="section">
 
   <!-- 顶部介绍文字 + 图片 -->
-  <div class="hero-visual image-panel">
-    <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image">
-  </div>
+<div class="hero-visual image-panel">
+  <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image"
+       style="width: 80%; max-width: 900px; display: block; margin: 0 auto;">
+</div>
 
   <div class="hero-copy" style="margin: 24px 0 48px 0;">
     <h1 style="text-align: justify; font-size: 1.1rem; line-height: 1.6; font-weight: normal;">
