@@ -8,7 +8,8 @@
       ☰
     </button>
 
-    <nav class="site-nav">
+    <!-- 只修改这里的导航间距 + 与Logo距离 -->
+    <nav class="site-nav" style="margin-left: -12px; gap: 22px;">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>HOME</a>
       <a href="{{ '/team/' | relative_url }}"{% if page.url == '/team/' %} class="active"{% endif %}>TEAM</a>
       <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>RESEARCH</a>
