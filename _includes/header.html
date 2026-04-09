@@ -1,17 +1,14 @@
 <header class="site-header">
-  <div class="container header-inner" style="display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 0;">
-    
-    <!-- Logo：固定大小 + 不缩小 + 间距正常 -->
-    <a class="brand brand-wordmark-image" href="{{ '/' | relative_url }}" style="flex-shrink: 0; margin-right: 25px;">
-      <img src="{{ '/assets/images/tanlab-logo9.png' | relative_url }}" alt="Tan Lab" style="height: 50px; width: auto;">
+  <div class="container header-inner">
+    <a class="brand brand-wordmark-image" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/tanlab-logo9.png' | relative_url }}" alt="Tan Lab">
     </a>
 
     <button class="menu-toggle" type="button" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">
       ☰
     </button>
 
-    <!-- 导航：两端对齐 + 不换行 + 不挤压 + 所有页面宽度一致 -->
-    <nav class="site-nav" style="display: flex; flex: 1; justify-content: space-between; flex-wrap: nowrap; white-space: nowrap; flex-shrink: 0;">
+    <nav class="site-nav">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>HOME</a>
       <a href="{{ '/team/' | relative_url }}"{% if page.url == '/team/' %} class="active"{% endif %}>TEAM</a>
       <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>RESEARCH</a>
@@ -24,3 +21,46 @@
     </nav>
   </div>
 </header>
+
+<style>
+/* 头部整体布局：左右对齐、不超出容器 */
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  gap: 20px; /* Logo 和导航之间的距离（缩短了） */
+}
+
+/* 导航容器：均匀分布、撑满剩余空间 */
+.site-nav {
+  display: flex;
+  flex: 1;
+  justify-content: space-between; /* 每个 tab 自动均匀拉开 */
+  flex-wrap: nowrap;
+  min-width: 0;
+}
+
+/* 导航链接样式：居中对齐 */
+.site-nav a {
+  text-align: center;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+}
+
+/* 移动端菜单不受影响 */
+@media (max-width: 768px) {
+  .header-inner {
+    justify-content: space-between;
+  }
+  .site-nav {
+    display: none;
+  }
+  .nav-open .site-nav {
+    display: block;
+  }
+}
+</style>
