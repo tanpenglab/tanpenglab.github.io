@@ -55,14 +55,34 @@ title: Home
 
 </section>
 
-<!-- 🔥 在这里直接修改顶部导航间距 + 高度，只改这一页！ -->
+<!-- 🔥 终极修复：不换行 + 不超出 + 间距正常 + 高度正常 -->
 <style>
-/* 导航间距拉大 */
+/* 强制导航全部在一行，绝不换行 */
 .site-nav {
-  gap: 30px !important; /* 数字越大，距离越宽 */
+  display: flex !important;
+  gap: 16px !important; /* 适中间距，不挤也不超 */
+  flex-wrap: nowrap !important;
+  white-space: nowrap !important;
+  overflow: visible !important;
+  min-width: auto !important;
 }
-/* 头部高度加高 */
+
+/* 导航文字缩小一点，保证一行放下 */
+.site-nav a {
+  font-size: 14px !important;
+  white-space: nowrap !important;
+}
+
+/* 头部高度正常 */
 .site-header {
-  padding: 22px 0 !important;
+  padding: 20px 0 !important;
+}
+
+/* 确保导航不超出容器，和 Research Area 对齐 */
+.site-header .container {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 0 20px !important;
+  box-sizing: border-box !important;
 }
 </style>
