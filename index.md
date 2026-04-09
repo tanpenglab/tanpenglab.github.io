@@ -11,9 +11,11 @@ title: Home
     <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image">
   </div>
 
-  <!-- 新加：居中副标题，与 Research Area 同样式 -->
-  <div style="text-align: center; margin: 24px 0;">
-    <p class="eyebrow">Systems Approaches to Gut Biology and Disease</p>
+  <!-- 【已严格居中】副标题，与 Research Area 同样式 -->
+  <div style="text-align: center; width: 100%; margin: 24px 0;">
+    <p class="eyebrow" style="margin: 0 auto; text-align: center;">
+      Systems Approaches to Gut Biology and Disease
+    </p>
   </div>
 
   <div class="hero-copy" style="margin: 24px 0 48px 0;">
