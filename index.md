@@ -3,37 +3,39 @@ layout: default
 title: Home
 ---
 
-<!-- 首页整体区域 -->
+<!-- 整个首页内容包在同一个 section 里，完全一体化 -->
 <section class="section">
 
-  <!-- 顶部主图 -->
+  <!-- 顶部介绍文字 + 图片 -->
   <div class="hero-visual image-panel">
     <img src="{{ site.data.site.home_hero_image }}" alt="Tan Lab home image">
   </div>
 
-  <!-- 副标题标语 -->
-  <div class="hero-tagline" style="text-align: center; margin: 24px 0;">
-    <p class="eyebrow">Systems Approaches to Gut Biology and Disease</p>
+  <!-- 居中副标题：和 Research Area 完全同样式，强制居中 -->
+  <div style="width: 100%; text-align: center; margin: 24px 0;">
+    <p class="eyebrow" style="margin: 0; display: inline-block;">
+      Systems Approaches to Gut Biology and Disease
+    </p>
   </div>
 
-  <!-- 实验室简介 -->
-  <div class="hero-copy" style="margin: 24px 0 48px;">
+  <div class="hero-copy" style="margin: 24px 0 48px 0;">
     <h1 style="text-align: justify; font-size: 1.1rem; line-height: 1.6; font-weight: normal;">
       {{ site.data.site.intro }}
     </h1>
-    <div class="cta-row" style="margin-top: 20px; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+    <div class="cta-row" style="margin-top: 20px;">
       <a class="button" href="{{ '/research/' | relative_url }}">Explore Research</a>
       <a class="button secondary" href="{{ '/publications/' | relative_url }}">View Publications</a>
     </div>
   </div>
 
-  <!-- 研究方向标题栏 -->
+  <!-- Research Area 紧接在下面，无间隔分段 -->
   <div class="section-head">
-    <p class="eyebrow">Research Area</p>
+    <div>
+      <p class="eyebrow">Research Area</p>
+    </div>
     <a class="text-link" href="{{ '/research/' | relative_url }}">Read More</a>
   </div>
 
-  <!-- 研究方向卡片 -->
   <div class="grid grid-2">
     {% for item in site.data.home_research %}
       <article class="card research-card">
@@ -46,13 +48,9 @@ title: Home
     {% endfor %}
   </div>
 
-  <!-- 底部整幅图片 -->
-  <div style="margin-top: 36px;">
-    <img
-      src="/assets/images/home-page-logo.png"
-      alt="Lab logo banner"
-      style="width: 100%; height: auto; border-radius: 16px; object-fit: cover; display: block;"
-    >
+  <div style="margin-top: 36px; width: 100%;">
+    <img src="/assets/images/home-page-logo.png"
+         style="width: 100%; height: auto; border-radius: 16px; object-fit: cover; display: block;">
   </div>
 
 </section>
