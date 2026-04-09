@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- 整个首页内容包在同一个 section 里，完全一体化 -->
-<section class="section">
+<section class="section" style="max-width: 1200px; margin: 0 auto; padding: 0 20px; box-sizing: border-box;">
 
   <!-- 顶部介绍文字 + 图片 -->
   <div class="hero-visual image-panel">
@@ -42,7 +42,7 @@ title: Home
         <img src="{{ item.image }}" alt="{{ item.title }}">
         <div class="card-body">
           <h3>{{ item.title }}</h3>
-          <p>{{ item.description }}</p>
+          <p>{{ description }}</p>
         </div>
       </article>
     {% endfor %}
