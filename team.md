@@ -162,12 +162,12 @@ permalink: /team/
     </div>
   </div>
 
-  <!-- 合照（缩小 + 居中） -->
-  <div style="margin-top: 12px; margin-bottom: 32px; text-align: center;">
-    <img src="/assets/images/team-photo.png?v=3"
-         style="max-width: 720px; width: 85%; border-radius: 16px; object-fit: cover;"
-         alt="Lab Members">
-  </div>
+<!-- 合照（缩小 + 完美居中） -->
+<div style="margin-top: 12px; margin-bottom: 32px; display: flex; justify-content: center;">
+  <img src="/assets/images/team-photo.png?v=3"
+       style="width: 70%; max-width: 700px; border-radius: 16px; object-fit: cover;"
+       alt="Lab Members">
+</div>
 
   <!-- 成员列表 -->
   <div style="padding: 0 0 12px;">
