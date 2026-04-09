@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- 整个首页内容包在同一个 section 里，完全一体化 -->
-<section class="section" style="max-width: 1200px; margin: 0 auto; padding: 20px 20px 0; box-sizing: border-box;">
+<section class="section">
 
   <!-- 顶部介绍文字 + 图片 -->
   <div class="hero-visual image-panel">
@@ -54,54 +54,3 @@ title: Home
   </div>
 
 </section>
-
-<style>
-/* 全站导航统一：一行显示、不换行、不超出、间距拉开 */
-.site-nav {
-  display: flex !important;
-  gap: 17px !important;
-  justify-content: flex-end !important;
-  flex-wrap: nowrap !important;
-  white-space: nowrap !important;
-  max-width: 100% !important;
-  width: auto !important;
-}
-
-.site-nav a {
-  font-size: 14.5px !important;
-  white-space: nowrap !important;
-}
-
-/* 头部高度 */
-.site-header {
-  padding: 20px 0 !important;
-}
-
-/* 导航和 Research Area 完全对齐 */
-.site-header .container {
-  max-width: 1200px !important;
-  margin: 0 auto !important;
-  padding: 0 20px !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-/* 手机端汉堡菜单修复 */
-@media (max-width: 768px) {
-  .site-nav {
-    display: none !important;
-  }
-  .nav-open .site-nav {
-    display: flex !important;
-    flex-direction: column !important;
-    position: absolute !important;
-    top: 70px !important;
-    left: 0 !important;
-    right: 0 !important;
-    background: #fff !important;
-    padding: 20px !important;
-    gap: 15px !important;
-    z-index: 999 !important;
-  }
-}
-</style>
