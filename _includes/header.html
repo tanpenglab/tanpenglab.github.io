@@ -1,14 +1,14 @@
 <header class="site-header">
-  <div class="container header-inner">
-    <a class="brand brand-wordmark-image" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/tanlab-logo9.png' | relative_url }}" alt="Tan Lab">
+  <div class="container header-inner" style="display: flex; align-items: center; justify-content: space-between; gap: 0; padding: 0 15px;">
+    <a class="brand brand-wordmark-image" href="{{ '/' | relative_url }}" style="margin-right: 20px;">
+      <img src="{{ '/assets/images/tanlab-logo9.png' | relative_url }}" alt="Tan Lab" style="height: 50px; width: auto;">
     </a>
 
     <button class="menu-toggle" type="button" aria-label="Toggle navigation" onclick="document.body.classList.toggle('nav-open')">
       ☰
     </button>
 
-    <nav class="site-nav">
+    <nav class="site-nav" style="display: flex; flex: 1; justify-content: flex-start; gap: 35px; flex-wrap: nowrap; white-space: nowrap;">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>HOME</a>
       <a href="{{ '/team/' | relative_url }}"{% if page.url == '/team/' %} class="active"{% endif %}>TEAM</a>
       <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} class="active"{% endif %}>RESEARCH</a>
