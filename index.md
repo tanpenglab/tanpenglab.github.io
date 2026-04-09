@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- 整个首页内容包在同一个 section 里，完全一体化 -->
-<section class="section" style="max-width: 1200px; margin: 0 auto; padding: 0 20px; box-sizing: border-box;">
+<section class="section" style="max-width: 1200px; margin: 0 auto; padding: 20px 20px 0; box-sizing: border-box;">
 
   <!-- 顶部介绍文字 + 图片 -->
   <div class="hero-visual image-panel">
