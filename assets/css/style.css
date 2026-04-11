@@ -845,8 +845,6 @@ img {
   text-align: center;
   font-size: 1.12rem;
   font-weight: 700;
-  /* 直接继承 eyebrow 的颜色和样式 */
-  @extend .eyebrow;
   color: var(--accent) !important;
   letter-spacing: 0.06em;
   text-transform: none;
@@ -855,8 +853,40 @@ img {
 }
 
 /* ============================================== */
-/* 📱 终极手机端完美适配（直接粘贴到你的CSS最后） */
+/* 📱 手机端导航栏 + Research Area 完美适配 */
 /* ============================================== */
+@media (max-width: 768px) {
+  /* 导航栏限制最多2行，文字更小 */
+  .site-nav {
+    flex-wrap: wrap;
+    max-height: 80px;
+    overflow: hidden;
+  }
+  .site-nav a {
+    font-size: 0.78rem !important;
+    padding: 5px 8px;
+  }
+
+  /* Research 标题强制1行 + 缩小 */
+  .section div h3 {
+    font-size: 0.82rem !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  }
+
+  /* Research 描述文字缩小 */
+  .section div p {
+    font-size: 0.8rem !important;
+    line-height: 1.5 !important;
+  }
+
+  /* 全局页面字体统一缩小 */
+  body, p, li, .muted, .pub-item, .note {
+    font-size: 0.88rem !important;
+  }
+}
+
 @media (max-width: 480px) {
   /* 顶部导航变成竖排，避免挤爆 */
   .header-inner {
@@ -866,18 +896,20 @@ img {
     padding: 12px 0;
   }
 
-  /* 导航栏居中、紧凑、不换行溢出 */
+  /* 导航栏居中、紧凑、限制2行 */
   .site-nav {
     width: 100%;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 4px;
     margin-left: 0;
+    max-height: 72px;
+    overflow: hidden;
   }
 
   .site-nav a {
-    font-size: 0.82rem;
-    padding: 6px 10px;
+    font-size: 0.75rem !important;
+    padding: 4px 7px;
     white-space: nowrap;
   }
 
@@ -924,7 +956,7 @@ img {
 
   /* 正文阅读更舒服 */
   p, li, .muted, .pub-item, .member-meta, .note {
-    font-size: 0.9rem !important;
+    font-size: 0.86rem !important;
     line-height: 1.6 !important;
   }
 
@@ -964,16 +996,16 @@ img {
 }
 /* 缩小 PI 介绍与 Lab Members 之间的空白 */
 .team-grid--pi {
-  margin-bottom: 16px !important; /* 原来很大，改成小间距 */
+  margin-bottom: 16px !important;
   gap: 16px !important;
 }
 .team-section .section-head {
-  margin-top: 16px !important; /* 成员标题上间距缩小 */
+  margin-top: 16px !important;
   margin-bottom: 16px !important;
 }
 .team-grid--members {
-  margin-top: 0 !important; /* 去掉成员网格顶部额外间距 */
-  gap: 20px !important; /* 成员卡片之间正常间距 */
+  margin-top: 0 !important;
+  gap: 20px !important;
 }
 
 /* ============================================== */
