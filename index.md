@@ -54,3 +54,22 @@ title: Home
   </div>
 
 </section>
+
+/* 通用强制导航栏手机端只分 2 行 */
+@media (max-width: 768px) {
+  header nav,
+  .nav,
+  .navigation,
+  [class*="nav"] {
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 8px 14px !important;
+  }
+  header nav a,
+  .nav a,
+  .navigation a,
+  [class*="nav"] a {
+    white-space: nowrap !important;
+    font-size: 0.9rem !important;
+  }
+}
