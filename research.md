@@ -11,10 +11,15 @@ permalink: /research/
     </div>
   </div>
 
-  <!-- 图片放在标题下方、研究内容文字上方 -->
-  <img src="{{ '/assets/images/publication-flowchart.jpg' | relative_url }}"
-       alt="Research overview flowchart"
-       style="width: 100%; border-radius: 16px; object-fit: cover; margin-bottom: 32px;">
+  <!-- 图片 + 右下角小字 -->
+  <div style="position: relative; margin-bottom: 32px;">
+    <img src="{{ '/assets/images/publication-flowchart.jpg' | relative_url }}"
+         alt="Research overview flowchart"
+         style="width: 100%; border-radius: 16px; object-fit: cover; display: block;">
+    <div style="position: absolute; right: 12px; bottom: 8px; font-size: 0.65rem; color: #666;">
+      Cartoon adapted from I Clark et al. Science 2021 and C Muus et al. Nature Medicine 2021, created using BioRender.
+    </div>
+  </div>
 
   <!-- 纯文本研究内容 -->
   <div style="display: flex; flex-direction: column; gap: 24px;">
