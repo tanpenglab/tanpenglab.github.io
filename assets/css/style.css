@@ -846,6 +846,7 @@ img {
   font-size: 1.12rem;
   font-weight: 700;
   /* 直接继承 eyebrow 的颜色和样式 */
+  @extend .eyebrow;
   color: var(--accent) !important;
   letter-spacing: 0.06em;
   text-transform: none;
@@ -854,10 +855,10 @@ img {
 }
 
 /* ============================================== */
-/* 📱 终极手机端完美适配 */
+/* 📱 终极手机端完美适配（直接粘贴到你的CSS最后） */
 /* ============================================== */
 @media (max-width: 480px) {
-  /* 顶部导航 */
+  /* 顶部导航变成竖排，避免挤爆 */
   .header-inner {
     flex-direction: column;
     align-items: center;
@@ -865,22 +866,19 @@ img {
     padding: 12px 0;
   }
 
-  /* 导航栏：允许换行 + 限制 2 行 */
+  /* 导航栏居中、紧凑、不换行溢出 */
   .site-nav {
     width: 100%;
     justify-content: center;
     flex-wrap: wrap;
     gap: 6px;
     margin-left: 0;
-    max-height: 60px;
-    overflow: hidden;
   }
 
   .site-nav a {
-    font-size: 0.75rem;
-    padding: 4px 8px;
-    white-space: normal;
-    line-height: 1.2;
+    font-size: 0.82rem;
+    padding: 6px 10px;
+    white-space: nowrap;
   }
 
   /* Logo 缩小，手机更协调 */
@@ -1012,4 +1010,18 @@ img {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
+
+  /* 手机导航栏文字限制2行，其余不变 */
+@media (max-width: 768px) {
+  .site-nav a {
+    white-space: normal !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    line-height: 1.2 !important;
+    min-height: 2.4em !important;
+  }
+}
 }
