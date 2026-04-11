@@ -1,21 +1,11 @@
 - title: 'Innate Sensing: Understanding Host Responses to Gut Pathogens'
-  description: What are the underlying mechanisms that tightly regulate innate immune
-    responses, particularly the spatiotemporal assembly of intracellular "signalosomes"
-    involved in innate sensing pathways such as RIG-I, cGAS, and the inflammasome?
-    Do any viruses hijack these signalosomes as part of their immune evasion strategies,
-    and could these mechanisms serve as potential therapeutic targets for the development
-    of effective antiviral drugs?
+  description: How are innate immune responses orchestrated, particularly the spatiotemporal assembly of signalosomes in RIG‑I, cGAS, and inflammasome pathways? Do viruses hijack these complexes for immune evasion, and can they serve as antiviral therapeutic targets?
   image: https://static.wixstatic.com/media/d8287f_53c922dd889d424d86a0837ac5976da0~mv2.png
 - title: Gastrointestinal Tumor Microenvironment and Metastasis
-  description: What mechanisms drive shifts in cellular states or the differentiation
-    of non-tumor components within the tumor microenvironment, such as immune cells,
-    fibroblasts, adipocytes and neurons, to promote cancer cell metastasis and immune evasion?
+  description: What mechanisms drive state transitions and differentiation of non-tumor cells in the tumor microenvironment—such as immune cells, fibroblasts, adipocytes, and neurons—to promote cancer metastasis and immune escape?
   image: https://static.wixstatic.com/media/d8287f_2efb9c24c3c043bcbac14dd358180237~mv2.png
 - title: Enteric Nervous System and the Gut-Brain Axis
-  description: How do region-specific neurons within the enteric nervous system maintain
-    the integrity of the gastrointestinal (GI) barrier against noxious stimuli? What
-    roles do these neurons play in the development of autoimmunity, allergies, and
-    neurodegenerative diseases along the complex gut-brain axis?
+  description: How do region-specific neurons within the enteric nervous system preserve gastrointestinal barrier integrity against noxious stimuli? And what roles do these neurons play in the pathogenesis of inflammatory disorders, autoimmune diseases, allergic responses, and neurodegenerative conditions across the intricate gut–brain axis?
   image: https://static.wixstatic.com/media/d8287f_dec62e4db7f0400dba53ad7b9fc1e10e~mv2.png
 - title: Deep Gut Optogenetics for Precision Neuroimmune Modulation
   description: Optogenetics serves as a versatile platform for the precise regulation of intestinal cell physiology with unparalleled spatiotemporal resolution. Our work centers on establishing image-guided optical pooled screening strategies and developing region-specific neuroimmune-targeted therapies for intestinal aging, inflammatory bowel disease, colorectal cancer, and food allergy.
