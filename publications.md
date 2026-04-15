@@ -91,7 +91,7 @@ permalink: /publications/
   <!-- REVIEWS -->
   <div class="section-head" style="margin-top: 48px;">
     <div>
-      <p class="eyebrow">REVIEWS</p>
+      <p class="eyebrow">REVIEWS & BOOK CHAPTERS</p>
     </div>
   </div>
 
