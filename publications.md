@@ -47,7 +47,7 @@ permalink: /publications/
   <!-- ARTICLES -->
   <div class="section-head" style="margin-top: 48px;">
     <div>
-      <p class="eyebrow">ARTICLES</p>
+      <p class="eyebrow">RESEARCH ARTICLES</p>
     </div>
   </div>
 
