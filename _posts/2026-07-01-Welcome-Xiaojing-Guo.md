@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome Our New Research Assistant, Xiaojing Guo
+title: Welcome our new research assistant, Xiaojing Guo
 image:
 ---
 
