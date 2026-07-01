@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper "Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation" from the lab in Science 
+title: New paper: "Regional encoding of enteric nervous system responses to microbiota and type 2 inflammation" from the lab in Science 
 image: 
 ---
 
