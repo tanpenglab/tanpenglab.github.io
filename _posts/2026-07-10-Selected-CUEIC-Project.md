@@ -4,4 +4,4 @@ title: Undergraduate Project Granted National-Level Funding in 2026 Innovation a
 image:
 ---
 
-Congratulations! Our undergraduate project led by Yidan Zhao, Zixuan Song & Weiyuan Ding, has been approved as a national-level project of the 2026 National Training Program of Innovation and Entrepreneurship for Undergraduates.
+Congratulations! Our undergraduate project led by Yidan Zhao, Zixuan Song & Weiyuan Ding, has been approved as a national-level project of the 2026 National Training Program of Innovation and Entrepreneurship for Undergraduates（2026年大学生创新创业训练计划）.
