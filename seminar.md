@@ -8,7 +8,7 @@ permalink: /seminar/
   <div class="section-head">
     <div>
       <p class="eyebrow">LAB SEMINAR</p>
-      <p>Invited speakers and lab presentations</p>
+      <p>Tanpeng Lab Seminar Invited Speakers</p>
     </div>
   </div>
 
