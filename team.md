@@ -141,7 +141,7 @@ permalink: /team/
   <div class="team-profile-card">
     <div class="team-profile-side">
       <div class="team-profile-photo">
-        <img src="/assets/images/peng-tan.png" alt="{{ lead.name }}" loading="lazy">
+        <img src="/assets/images/peng-tan2.png" alt="{{ lead.name }}" loading="lazy">
       </div>
 
       <h3>{{ lead.name }}</h3>
