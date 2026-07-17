@@ -165,7 +165,7 @@ permalink: /team/
 
 <!-- 合照（缩小 + 完美居中） -->
 <div style="margin-top: 12px; margin-bottom: 32px; display: flex; justify-content: center;">
-  <img src="/assets/images/team-photo2.png?v=3"
+  <img src="/assets/images/team-photo3.png?v=3"
        style="width: 70%; max-width: 700px; border-radius: 16px; object-fit: cover;"
        alt="Lab Members">
 </div>
