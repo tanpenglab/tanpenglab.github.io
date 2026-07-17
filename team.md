@@ -175,45 +175,45 @@ permalink: /team/
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Xiaojing Guo</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">Administrative/Research assistant</span>
+      <span style="color: var(--muted);">Administrative/Research assistant（毕业于大连医科大学）</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Fan Yang</span>
+      <span style="font-weight: 600; color: var(--ink);">Fan Yang（毕业于中科院）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">Bioinformatics Analyst/Research assistant</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Zaiqi Xie</span>
+      <span style="font-weight: 600; color: var(--ink);">Zaiqi Xie（毕业于中科院）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">Postdoctoral Associate</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Bin Liang</span>
+      <span style="font-weight: 600; color: var(--ink);">Bin Liang（毕业于中科院）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2026 Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Wanrong Xia</span>
+      <span style="font-weight: 600; color: var(--ink);">Wanrong Xia（毕业于海南医科大学）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2026 Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Jiaxing Wang</span>
+      <span style="font-weight: 600; color: var(--ink);">Jiaxing Wang（毕业于广西大学）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2025 Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Wen Jiang</span>
+      <span style="font-weight: 600; color: var(--ink);">Wen Jiang（毕业于中南大学）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2025 Ph.D student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Jinyi Xiang</span>
+      <span style="font-weight: 600; color: var(--ink);">Jinyi Xiang（毕业于苏州大学）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2025 Master's student</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
-      <span style="font-weight: 600; color: var(--ink);">Xinyu Zhang</span>
+      <span style="font-weight: 600; color: var(--ink);">Xinyu Zhang（毕业于哈尔滨医科大学）</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
       <span style="color: var(--muted);">2025 Master's student</span>
     </div>
