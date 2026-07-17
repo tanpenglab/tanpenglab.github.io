@@ -39,6 +39,15 @@ permalink: /lab-gallery/
         <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
       </div>
     </div>
+    
+    <!-- 照片 4 -->
+    <div class="gallery-item">
+      <img src="/assets/images/team-photo yikeyuan.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-07-17</span>
+        <p>Group photo at Hainan Academy of Medical Sciences</p>
+      </div>
+    </div>
 
   </div>
 </section>
