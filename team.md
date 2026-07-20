@@ -180,17 +180,17 @@ permalink: /team/
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Fan Yang</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">Bioinformatics Analyst/Research assistant（毕业于中科院）</span>
+      <span style="color: var(--muted);">Bioinformatics Analyst/Research assistant（毕业于中国科学院）</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Zaiqi Xie</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">Postdoctoral Associate（毕业于中科院）</span>
+      <span style="color: var(--muted);">Postdoctoral Associate（毕业于中国科学院）</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Bin Liang</span>
       <span style="margin: 0 10px; color: var(--muted);">–</span>
-      <span style="color: var(--muted);">2026 Ph.D student（毕业于中科院）</span>
+      <span style="color: var(--muted);">2026 Ph.D student（毕业于中国科学院）</span>
     </div>
     <div style="padding: 6px 0; font-size: 0.94rem; border-bottom: 1px solid var(--line);">
       <span style="font-weight: 600; color: var(--ink);">Wanrong Xia</span>
