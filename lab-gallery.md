@@ -69,7 +69,7 @@ permalink: /lab-gallery/
 
     <!-- 照片 7 -->
     <div class="gallery-item">
-      <img src="/assets/images/20260130retreat-3.jpg.jpg" alt="Gallery photo">
+      <img src="/assets/images/20260130retreat-3.jpg" alt="Gallery photo">
       <div class="gallery-caption">
         <span class="gallery-date">2026-01-30</span>
         <p>Tan lab retreat at 荣山寮</p>
