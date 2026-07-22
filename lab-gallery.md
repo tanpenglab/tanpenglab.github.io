@@ -38,7 +38,7 @@ permalink: /lab-gallery/
     <!-- 照片 3 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo-huoshankou2.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo-huoshankou3.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-01-30</span>
@@ -115,7 +115,7 @@ permalink: /lab-gallery/
     <!-- 照片 10 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo yikeyuan.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo-yikeyuan2.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-07-17</span>
