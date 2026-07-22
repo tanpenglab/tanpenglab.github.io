@@ -39,8 +39,62 @@ permalink: /lab-gallery/
         <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
       </div>
     </div>
-    
+
     <!-- 照片 4 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-0.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+
+    <!-- 照片 5 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-1.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+
+    <!-- 照片 6 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-2.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+
+    <!-- 照片 7 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-3.jpg.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+
+    <!-- 照片 8 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-4.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+
+    <!-- 照片 9 -->
+    <div class="gallery-item">
+      <img src="/assets/images/20260130retreat-5.jpg" alt="Gallery photo">
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-01-30</span>
+        <p>Tan lab retreat at Leiqiong UNESCO Global Geopark</p>
+      </div>
+    </div>
+    
+    <!-- 照片 10 -->
     <div class="gallery-item">
       <img src="/assets/images/team-photo yikeyuan.jpg" alt="Gallery photo">
       <div class="gallery-caption">
