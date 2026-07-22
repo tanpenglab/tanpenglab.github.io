@@ -45,7 +45,7 @@ permalink: /lab-gallery/
       <img src="/assets/images/20260130retreat-0.jpg" alt="Gallery photo">
       <div class="gallery-caption">
         <span class="gallery-date">2026-01-30</span>
-        <p>Tan lab retreat at 荣山寮</p>
+        <p>Tan lab retreat at 荣堂村</p>
       </div>
     </div>
 
