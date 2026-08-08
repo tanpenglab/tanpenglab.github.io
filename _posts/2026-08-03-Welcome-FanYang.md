@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome our new research assistant, Xiaojing Guo
+title: Welcome our new research assistant, Fan Yang
 image:
 ---
 
