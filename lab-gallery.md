@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gallery
+title: Labreel
 permalink: /lab-gallery/
 ---
 
