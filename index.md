@@ -47,7 +47,7 @@ title: Home
   </div>
 
   <!-- ========== 新增：Our lab is supported by 资助Logo区域 ========== -->
-<div style="margin-top: 64px; padding-top:32px">
+<div style="margin-top: 64px; padding-top:32px;">
     <p style="margin:0 0 24px 0; font-size:0.80rem; font-weight:normal; color:#111111;">Our lab is supported by:</p>
     <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center;">
       <!-- 替换为你的实际logo路径，可继续复制增加 -->
