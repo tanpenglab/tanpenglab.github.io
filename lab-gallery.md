@@ -6,6 +6,8 @@ permalink: /lab-gallery/
 
 <section class="section">
   <div class="section-head">
+    <div>
+      <p class="eyebrow">LABREEL</p>
     </div>
   </div>
 
