@@ -47,13 +47,13 @@ title: Home
   </div>
 
   <!-- ========== 新增：Our lab is supported by 资助Logo区域 ========== -->
-  <div style="margin-top: 64px; padding-top:32px; border-top:1px solid #e5e7eb;">
-    <p class="eyebrow" style="margin-bottom:24px;">Our lab is supported by:</p>
+<div style="margin-top: 64px; padding-top:32px; border-top:1px solid #e5e7eb;">
+    <p style="margin:0 0 24px 0; font-size:1.25rem; font-weight:normal; color:#111111;">Our lab is supported by:</p>
     <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center;">
       <!-- 替换为你的实际logo路径，可继续复制增加 -->
-      <img src="/assets/funding/funder1.png" alt="Funder 1" style="height:56px; width:auto;">
-      <img src="/assets/funding/funder2.png" alt="Funder 2" style="height:56px; width:auto;">
-      <img src="/assets/funding/funder3.png" alt="Funder 3" style="height:56px; width:auto;">
+      <img src="/assets/images/funder1.png" alt="Funder 1" style="height:56px; width:auto;">
+      <img src="/assets/images/funder2.png" alt="Funder 2" style="height:56px; width:auto;">
+      <img src="/assets/images/funder3.png" alt="Funder 3" style="height:56px; width:auto;">
     </div>
   </div>
   <!-- ========== 新增结束 ========== -->
