@@ -48,9 +48,8 @@ title: Home
 
   <!-- ========== 新增：Our lab is supported by 资助Logo区域 ========== -->
 <div style="margin-top: 64px; padding-top:32px;">
-    <p style="margin:0 0 24px 0; font-size:0.95rem; font-weight:normal; color:#111111; text-align:center;">Our lab is supported by:</p>
-    <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center; justify-content:center;">
-      <!-- 替换为你的实际logo路径，可继续复制增加 -->
+  <p style="margin:0 0 24px 0; font-size:0.95rem; font-weight:normal; color:#111111; text-align:center !important;">Our lab is supported by:</p>
+  <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center; justify-content:center;">
       <img src="/assets/images/funder1.png" alt="Funder 1" style="height:56px; width:auto;">
       <img src="/assets/images/funder2.png" alt="Funder 2" style="height:56px; width:auto;">
       <img src="/assets/images/funder3.png" alt="Funder 3" style="height:56px; width:auto;">
