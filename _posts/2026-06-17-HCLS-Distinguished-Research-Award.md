@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selected as the recipient of HCLS Distinguished Research Award from Harvard Medical School
+title: 【Award】Selected as the recipient of HCLS Distinguished Research Award from Harvard Medical School
 image: "/assets/images/award1.jpg"
 image2: "/assets/images/award2.jpg"
 ---
