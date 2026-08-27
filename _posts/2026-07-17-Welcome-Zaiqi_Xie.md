@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome our new Postdoc, Zaiqi Xie
+title: 【New member】Welcome our new Postdoc, Zaiqi Xie
 image:
 ---
 
