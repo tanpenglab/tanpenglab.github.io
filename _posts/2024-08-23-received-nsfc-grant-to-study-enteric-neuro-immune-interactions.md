@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSFC General Program Grant Awarded for Research on Enteric Motor Neuron Plasticity and Responses to Mucosal Immune and Endocrine signals
+title: “NSFC General Program Grant Awarded for Research on Enteric Motor Neuron Plasticity and Responses to Mucosal Immune and Endocrine signals”
 image:
 ---
 
