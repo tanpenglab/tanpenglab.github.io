@@ -3,16 +3,14 @@ layout: default
 title: News
 permalink: /news/
 ---
-
-<section class="section">
+<section class="section" style="width:100%; max-width:1280px; margin:0 auto; padding: 48px 24px;">
   <div class="section-head">
     <div>
       <p class="eyebrow">LAB NEWS</p>
     </div>
   </div>
-
   <!-- 纯文本新闻列表，无任何卡片框 -->
-  <div class="post-list" style="gap: 28px; display: flex; flex-direction: column;">
+  <div class="post-list" style="gap: 28px; display: flex; flex-direction: column; width:100%;">
     {% for post in site.posts %}
       <div>
         <p class="muted" style="margin: 0 0 6px; font-size: 0.86rem;">{{ post.date | date: "%b %-d, %Y" }}</p>
