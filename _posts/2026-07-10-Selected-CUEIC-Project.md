@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undergraduate Project Granted National-Level Funding in 2026 Innovation and Entrepreneurship Training Program
+title: 【Undergrad】Undergraduate Project Granted National-Level Funding in 2026 Innovation and Entrepreneurship Training Program
 image:
 ---
 
