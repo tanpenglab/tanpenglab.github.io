@@ -24,7 +24,7 @@ permalink: /contact/
     </div>
   </div>
 
-  <div style="font-size: 1rem; line-height: 1.8; color: var(--muted);">
+  <div style="font-size: 1rem; line-height: 1.8; color: var(--ink);">
     <p style="margin: 0 0 16px;">Our lab has openings at all levels and is continuously seeking talented researchers to join our team.</p>
     <p style="margin: 0 0 16px;"><strong>For postdoctoral positions</strong>, candidates should submit a complete application package including a CV, cover letter, research summary, research proposal, and contact information for three references.</p>
     <p style="margin: 0;"><strong>For graduate program inquiries</strong>, formal applications are requested.</p>
