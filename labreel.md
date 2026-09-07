@@ -199,7 +199,51 @@ permalink: /lab-gallery/
         <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
+
+        <!-- 照片 18 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo18.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Tan lab retreat at 徐闻</p>
+      </div>
+    </div>
     
+        <!-- 照片 19 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo19.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Tan lab retreat at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 20 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo20.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Tan lab retreat at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 21 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo21.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Tan lab retreat at 徐闻</p>
+      </div>
+    </div>
+ 
   </div>
 </section>
 
