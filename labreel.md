@@ -181,7 +181,7 @@ permalink: /lab-gallery/
     <!-- 照片 16 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo16.jpeg" alt="Gallery photo">
+        <img src="/assets/images/team-photo16-2.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
