@@ -126,88 +126,77 @@ permalink: /lab-gallery/
     <!-- 照片 11 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo11.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo11.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
     
     <!-- 照片 12 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo12.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo12.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
 
     <!-- 照片 13 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo13.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo13.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
 
     <!-- 照片 14 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo14.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo14.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
 
     <!-- 照片 15 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo15.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo15.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
 
     <!-- 照片 16 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo16.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo16.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
 
     <!-- 照片 17 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo17.png" alt="Gallery photo">
+        <img src="/assets/images/team-photo17.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
-      </div>
-    </div>
-    
-    <!-- 照片 18 -->
-    <div class="gallery-item">
-      <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo18.png" alt="Gallery photo">
-      </div>
-      <div class="gallery-caption">
-        <span class="gallery-date">2026-09-05</span>
-        <p>Group photo at 徐闻</p>
+        <p>Tan lab retreat at 徐闻</p>
       </div>
     </div>
     
