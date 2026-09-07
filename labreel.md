@@ -130,7 +130,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat- on train to 徐闻</p>
       </div>
     </div>
     
@@ -141,7 +141,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-on ferry to 徐闻</p>
       </div>
     </div>
 
@@ -152,7 +152,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-lunch at 徐闻周记饭店</p>
       </div>
     </div>
 
@@ -163,7 +163,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat at 徐闻公园</p>
       </div>
     </div>
 
@@ -174,7 +174,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat at 徐闻未野茶舍</p>
       </div>
     </div>
 
@@ -185,7 +185,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat at 徐闻登云塔</p>
       </div>
     </div>
 
@@ -196,7 +196,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
 
@@ -207,7 +207,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
     
@@ -218,7 +218,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
 
@@ -229,7 +229,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
 
@@ -240,7 +240,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat at 徐闻</p>
+        <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
  
