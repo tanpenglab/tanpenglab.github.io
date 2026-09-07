@@ -123,6 +123,94 @@ permalink: /lab-gallery/
       </div>
     </div>
 
+    <!-- 照片 11 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo11.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+    
+    <!-- 照片 12 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo12.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 13 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo13.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 14 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo14.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 15 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo15.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 16 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo16.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+
+    <!-- 照片 17 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo17.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+    
+    <!-- 照片 18 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/team-photo18.jpg" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 徐闻</p>
+      </div>
+    </div>
+    
   </div>
 </section>
 
