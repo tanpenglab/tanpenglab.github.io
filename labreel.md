@@ -200,10 +200,10 @@ permalink: /lab-gallery/
       </div>
     </div>
 
-        <!-- 照片 18 -->
+    <!-- 照片 18 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo18.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo18.JPG" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -211,10 +211,10 @@ permalink: /lab-gallery/
       </div>
     </div>
     
-        <!-- 照片 19 -->
+    <!-- 照片 19 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo19.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo19.JPG" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -225,7 +225,7 @@ permalink: /lab-gallery/
     <!-- 照片 20 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo20.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo20.JPG" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -236,7 +236,7 @@ permalink: /lab-gallery/
     <!-- 照片 21 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/team-photo21.jpg" alt="Gallery photo">
+        <img src="/assets/images/team-photo21.JPG" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
