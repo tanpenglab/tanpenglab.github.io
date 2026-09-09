@@ -51,7 +51,7 @@ title: Home
     <p style="margin:0 0 24px 0; font-size:0.95rem; font-weight:normal; color:#111111;">Our lab is supported by:</p>
     <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:center;">
       <img src="/assets/images/funder1.png" alt="Funder 1" style="height:56px; width:auto;">
-      <img src="/assets/images/funder2-2.png" alt="Funder 2" style="height:90px; width:auto;">
+      <img src="/assets/images/funder2-2.png" alt="Funder 2" style="height:112px; width:auto;">
       <img src="/assets/images/funder3.png" alt="Funder 3" style="height:56px; width:auto;">
     </div>
   </div>
