@@ -130,7 +130,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat- on train to 徐闻</p>
+        <p>Tan lab retreat-train to 徐闻</p>
       </div>
     </div>
     
@@ -141,7 +141,7 @@ permalink: /lab-gallery/
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
-        <p>Tan lab retreat-on ferry to 徐闻</p>
+        <p>Tan lab retreat-ferry to 徐闻</p>
       </div>
     </div>
 
