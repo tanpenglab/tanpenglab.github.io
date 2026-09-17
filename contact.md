@@ -13,7 +13,7 @@ permalink: /contact/
 
   <ul style="list-style: none; padding: 0; margin: 0 0 36px 0;">
     <li style="margin: 0 0 14px; font-size: 1rem; line-height: 1.7;"><strong>Primary contact:</strong> Peng Tan</li>
-    <li style="margin: 0 0 14px; font-size: 1rem; line-height: 1.7;"><strong>Email:</strong> <a href="mailto:hy2025027@muhn.edu.cn">hy2025027@muhn.edu.cn</a></li>
+    <li style="margin: 0 0 14px; font-size: 1rem; line-height: 1.7;"><strong>Email:</strong> <a href="mailto:hy2025027@muhn.edu.cn">tanpeng@muhn.edu.cn</a></li>
     <li style="margin: 0 0 14px; font-size: 1rem; line-height: 1.7;"><strong>Address:</strong> Hainan Academy of Medical Sciences, Longhua District, Haikou, Hainan Province 571199</li>
     <li style="margin: 0 0 14px; font-size: 1rem; line-height: 1.7;"><strong>Administrative Email:</strong> Wanrong Xia, <a href="mailto:xiawanrong@muhn.edu.cn">xiawanrong@muhn.edu.cn</a></li>
   </ul>
