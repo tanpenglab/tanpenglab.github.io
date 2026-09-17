@@ -131,7 +131,7 @@ permalink: /team/
 <!-- 全部内容放在同一个 section 框内 -->
 <section class="section">
 
-  <!-- PRINCIPAL INVESTIGATOR -->
+<!-- PRINCIPAL INVESTIGATOR -->
 <div class="section-head">
   <div>
     <p class="eyebrow">PRINCIPAL INVESTIGATOR</p>
@@ -139,34 +139,23 @@ permalink: /team/
 </div>
 
 {% assign lead = site.data.team | first %}
-
-<div class="team-profile-card">
-
-  <!-- 左侧照片 -->
-  <div class="team-profile-photo">
-    <img src="/assets/images/peng-tan2.png" alt="{{ lead.name }}" loading="lazy">
-  </div>
-
-  <!-- 右侧信息区 -->
-  <div class="team-profile-content">
-
-    <!-- 顶部姓名与职位 -->
-    <div class="team-profile-header">
-      <h3>Peng Tan, Ph.D.</h3>
-      <p class="team-profile-role">Principal Investigator</p>
+<div class="team-grid team-grid--pi">
+  <div class="member-card member-card--lead">
+    <!-- 左侧照片 -->
+    <div class="member-avatar">
+      <img src="/assets/images/peng-tan2.png" alt="{{ lead.name }}" loading="lazy">
     </div>
-
-    <!-- 简介正文 -->
-    <div class="team-profile-bio">
+    <!-- 右侧全部文字区域 -->
+    <div class="card-body">
+      <div class="pi-profile-header">
+        <h3>Peng Tan, Ph.D.</h3>
+        <p class="pi-role">Principal Investigator</p>
+      </div>
       <p>Peng Tan is a Professor and Principal Investigator at Hainan Academy of Medical Sciences, Hainan Medical University. He started his lab in 2024 to study innate immunity in infectious diseases and tumor microenvironment, mucosal neuroimmunology and functional genomics of the enteric nervous system.</p>
-
-      <p>Before joining Hainan Academy of Medical Sciences, He conducted postdoctoral research at Klarman Cell Observatory, Broad Institute of MIT and Harvard, and HHMI at MIT with Profs. Aviv Regev and Ramnik Xavier. He received his Ph.D. from Texas A&M University-Weill Cornell Medicine joint program in 2018 with Professor Rong-fu Wang.</p>
-
-      <p>He is a recipient of Crohn’s &amp; Colitis Foundation of America (CCFA) Student Research Fellowship, CCFA IBD Plexus Award, 2026 Harvard Chinese Life Science (HCLS) Distinguished Research Award, and serves as a team member of the Food Allergy Science Initiative and the Human Cell Atlas. He has authored more than 40 peer-reviewed publications, including 15 first- and corresponding-author papers in journals such as Science, Nature Chemical Biology, Molecular Cell, Journal of Clinical Investigation, PLoS Biology, Nucleic Acids Research. His work has received over 4,600 citations with an h-index of 30, and has been featured in multiple academic journals and media outlets. His research is supported by grants from the National Natural Science Foundation of China (NSFC) and the Ministry of Education of China.</p>
+      <p>Before joining Hainan Academy of Medical Sciences, He conducted postdoctoral research at Klarman Cell Observatory, Broad Institute of MIT and Harvard, and HHMI at MIT with Profs. Aviv Regev and Ramnik Xavier. He received his Ph.D. from Texas A&M University‑Weill Cornell Medicine joint program in 2018 with Professor Rong‑fu Wang.</p>
+      <p>He is a recipient of Crohn’s & Colitis Foundation of America (CCFA) Student Research Fellowship, CCFA IBD Plexus Award, 2026 Harvard Chinese Life Science (HCLS) Distinguished Research Award, and serves as a team member of the Food Allergy Science Initiative and the Human Cell Atlas. He has authored more than 40 peer‑reviewed publications, including 15 first‑ and corresponding‑author papers in journals such as Science, Nature Chemical Biology, Molecular Cell, Journal of Clinical Investigation, PLoS Biology, Nucleic Acids Research. His work has received over 4,600 citations with an h‑index of 30, and has been featured in multiple academic journals and media outlets. His research is supported by grants from the National Natural Science Foundation of China (NSFC) and the Ministry of Education of China.</p>
     </div>
-
   </div>
-
 </div>
 
 
