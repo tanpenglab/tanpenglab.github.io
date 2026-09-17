@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Labreel
+title: Group Photo
 permalink: /lab-gallery/
 ---
 
 <section class="section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">LABREEL</p>
+      <p class="eyebrow">GROUP Photo</p>
     </div>
   </div>
 
