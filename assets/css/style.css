@@ -1084,7 +1084,8 @@ img {
 }
 
 /* 移动端自动变回上下堆叠 */
-@media (max-width:980px){
+```
+@media (max-width:720px){
   .member-card--lead {
     flex-direction: column;
     gap:20px;
