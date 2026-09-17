@@ -1025,3 +1025,78 @@ img {
   }
 }
 }
+/* ========== PI横向布局 ========== */
+.team-grid--pi {
+  max-width: unset !important;
+  margin: 24px 0 !important;
+}
+.member-card--lead {
+  max-width: unset !important;
+  display: flex !important;
+  gap: 36px;
+  align-items: flex-start;
+  padding: 0 !important;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+.member-card--lead .member-avatar {
+  flex: 0 0 270px;
+  width: 270px;
+  height: auto;
+  border-radius: 6px;
+  border: none;
+  background: transparent;
+  margin: 0 !important;
+}
+.member-card--lead .member-avatar img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  transform: none;
+}
+.member-card--lead .card-body {
+  flex: 1;
+  text-align: left;
+}
+/* PI名字+职位在右侧顶部 */
+.pi-profile-header h3 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin: 0 0 6px 0;
+  color: var(--ink);
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+}
+.pi-profile-header .pi-role {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--ink);
+  margin: 0 0 24px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.member-card--lead .card-body p {
+  font-size: 1rem;
+  line-height: 1.72;
+  color: var(--ink);
+  text-align: justify;
+}
+
+/* 移动端自动变回上下堆叠 */
+@media (max-width:980px){
+  .member-card--lead {
+    flex-direction: column;
+    gap:20px;
+  }
+  .member-card--lead .member-avatar {
+    flex:0 0 auto;
+    width: min(240px,100%);
+  }
+  .pi-profile-header h3 {
+    font-size:1.8rem;
+  }
+  .pi-profile-header .pi-role {
+    font-size:1.1rem;
+  }
+}
