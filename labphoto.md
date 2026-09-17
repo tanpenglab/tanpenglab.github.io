@@ -7,7 +7,7 @@ permalink: /lab-gallery/
 <section class="section">
   <div class="section-head">
     <div>
-      <p class="eyebrow">GROUP Photo</p>
+      <p class="eyebrow">GROUP PHOTO</p>
     </div>
   </div>
 
