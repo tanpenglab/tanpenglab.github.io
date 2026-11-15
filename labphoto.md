@@ -247,7 +247,7 @@ permalink: /lab-gallery/
      <!-- 照片 22 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/CBC2026-tanlab.JPG" alt="Gallery photo">
+        <img src="/assets/images/CBC2026-tanlab.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-08-02</span>
@@ -258,7 +258,7 @@ permalink: /lab-gallery/
     <!-- 照片 23 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/IASP2026-1.JPG" alt="Gallery photo">
+        <img src="/assets/images/IASP2026-1.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-10-27</span>
@@ -269,7 +269,7 @@ permalink: /lab-gallery/
     <!-- 照片 24 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/IASP2026-2.JPG" alt="Gallery photo">
+        <img src="/assets/images/IASP2026-2.jpeg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -280,7 +280,7 @@ permalink: /lab-gallery/
     <!-- 照片 25 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/CSI2026-talk.JPG" alt="Gallery photo">
+        <img src="/assets/images/CSI2026-talk.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -291,7 +291,7 @@ permalink: /lab-gallery/
     <!-- 照片 26 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/CSI2026-tanlab.JPG" alt="Gallery photo">
+        <img src="/assets/images/CSI2026-tanlab.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
@@ -313,7 +313,7 @@ permalink: /lab-gallery/
     <!-- 照片 28 -->
     <div class="gallery-item">
       <div class="gallery-img-wrap">
-        <img src="/assets/images/CSI2026-reunion.JPG" alt="Gallery photo">
+        <img src="/assets/images/CSI2026-reunion.jpg" alt="Gallery photo">
       </div>
       <div class="gallery-caption">
         <span class="gallery-date">2026-09-05</span>
