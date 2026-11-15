@@ -243,7 +243,84 @@ permalink: /lab-gallery/
         <p>Tan lab retreat-徐闻Sunset</p>
       </div>
     </div>
- 
+
+     <!-- 照片 22 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/CBC2026-tanlab.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-08-02</span>
+        <p>Tanlab at 2026 Chinese Biophysics Congress</p>
+      </div>
+    </div>
+    
+    <!-- 照片 23 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/IASP2026-1.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-10-27</span>
+        <p>2026 IASP-CASP group photo</p>
+      </div>
+    </div>
+
+    <!-- 照片 24 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/IASP2026-2.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>2026 IASP-CASP group photo</p>
+      </div>
+    </div>
+
+    <!-- 照片 25 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/CSI2026-talk.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Seminar presentation at 2026 CSI annual meeting</p>
+      </div>
+    </div>
+
+    <!-- 照片 26 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/CSI2026-tanlab.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Tanlab at 2026 CSI annual meeting</p>
+      </div>
+    </div>
+
+    <!-- 照片 27 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/CSI2026-group.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Group photo at 2026 CSI annual meeting</p>
+      </div>
+    </div>
+
+    <!-- 照片 28 -->
+    <div class="gallery-item">
+      <div class="gallery-img-wrap">
+        <img src="/assets/images/CSI2026-reunion.JPG" alt="Gallery photo">
+      </div>
+      <div class="gallery-caption">
+        <span class="gallery-date">2026-09-05</span>
+        <p>Rong-fu Wang lab reuion at 2026 CSI annual meeting</p>
+      </div>
+    </div>
+    
   </div>
 </section>
 
